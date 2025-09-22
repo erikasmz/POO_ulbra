@@ -81,7 +81,7 @@ Como Executar
 
 Clone o repositório:
 
-git clone <link_do_repositorio>
+git clone https://github.com/erikasmz/POO_ulbra.git
 
 
 Abra a pasta do projeto no VS Code.
